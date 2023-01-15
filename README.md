@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img alt="Adote" src="./assets/img/projeto.jpeg" width="75%">
-  <img alt="Adote" src="./assets/img/mobile.jpeg" width="21.96%">
+  <img alt="Adote" src="./assets/img/projeto.jpeg" width="75%" style="border-radius:5px">
+  <img alt="Adote" src="./assets/img/mobile.jpeg" width="21.96%" style="border-radius:5px">
 </p>
 
 <br>
@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+
+ Você pode ver o projeto [clicando aqui](https://paulaandrezza.github.io/Social-Tree/).
 
 <br>
 
