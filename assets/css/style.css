@@ -58,3 +58,9 @@ a {
     display: flex;
     gap: 30px;
 }
+
+.hover:hover {
+    cursor: pointer;
+    transition: 0.5s;
+    transform: scale(1.05);
+}
