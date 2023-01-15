@@ -3,6 +3,7 @@ body {
     color: #BB99DD;
     font-family: 'Merriweather Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    height: auto;
 }
 
 ul {
@@ -63,4 +64,10 @@ a {
     cursor: pointer;
     transition: 0.5s;
     transform: scale(1.05);
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        margin-top: 50px;
+    }
 }
