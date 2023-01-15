@@ -8,7 +8,7 @@
 
 <p align="center">
   <img alt="Adote" src="./assets/img/projeto.jpeg" width="75%">
-  <img alt="Adote" src="./assets/img/mobile.jpeg" width="21.98%">
+  <img alt="Adote" src="./assets/img/mobile.jpeg" width="21.96%">
 </p>
 
 <br>
